@@ -1,0 +1,11 @@
+.container-fluid {
+  padding: 0;
+}
+
+.landing-lp {
+  height: 100vh;
+  background-color: lightblue;
+  background-image: url("bg-img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
