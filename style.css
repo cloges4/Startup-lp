@@ -1,7 +1,28 @@
-.landing-lp {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 10px;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0.5rem;
+  color: #e0edc5;
+}
+
+main {
   height: 100vh;
   background-color: lightblue;
   background-image: url("bg-img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4rem;
 }
