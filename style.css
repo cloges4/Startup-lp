@@ -9,6 +9,7 @@ body {
   font-family: "Oswald", sans-serif;
   letter-spacing: 0.5rem;
   color: #e0edc5;
+  text-transform: uppercase;
 }
 
 main {
@@ -25,4 +26,19 @@ main {
 
 h1 {
   font-size: 4rem;
+}
+
+button {
+  background-color: transparent;
+  color: #e0edc5;
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  text-transform: uppercase;
+  border: 3px solid #443850;
+}
+
+button:hover {
+  transition: 0.25s ease-in;
+  background-color: #443850;
 }
