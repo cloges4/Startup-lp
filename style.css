@@ -28,25 +28,22 @@ h1 {
   font-size: 4rem;
 }
 
-#mc_embed_signup input.email {
+#mc_embed_signup input.email,
+#mc_embed_signup input.button {
   background-color: transparent;
-  color: #e0edc5;
   width: 250px;
-  padding: 1rem 1.5rem;
   margin-top: 1.5rem;
+  font-size: 1.25rem;
   text-transform: capitalize;
   border: 3px solid #443850;
 }
 
+#mc_embed_signup input.email {
+  padding: 1rem;
+}
+
 #mc_embed_signup input.button {
-  background-color: transparent;
-  color: #e0edc5;
-  width: 250px;
   height: 3rem;
-  font-size: 1.25rem;
-  margin-top: 1.5rem;
-  text-transform: capitalize;
-  border: 3px solid #443850;
 }
 
 #mc_embed_signup input.button:hover {
