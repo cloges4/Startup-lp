@@ -26,6 +26,7 @@ main {
 
 h1 {
   font-size: 4rem;
+  text-align: center;
 }
 
 #mc_embed_signup input.email,
