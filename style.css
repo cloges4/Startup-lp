@@ -29,7 +29,6 @@ h1 {
   text-align: center;
 }
 
-#mc_embed_signup input.email,
 #mc_embed_signup input.button {
   background-color: transparent;
   width: 250px;
@@ -37,10 +36,6 @@ h1 {
   font-size: 1.25rem;
   text-transform: capitalize;
   border: 3px solid #443850;
-}
-
-#mc_embed_signup input.email {
-  padding: 1rem;
 }
 
 #mc_embed_signup input.button {
