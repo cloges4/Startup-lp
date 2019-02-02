@@ -8,7 +8,7 @@ body {
   font-size: 10px;
   font-family: "Oswald", sans-serif;
   letter-spacing: 0.5rem;
-  color: #e0edc5;
+  color: #bcbacb;
   text-transform: uppercase;
 }
 
@@ -26,7 +26,6 @@ main {
 
 h1 {
   font-size: 4rem;
-  color: orangered;
   text-align: center;
 }
 
